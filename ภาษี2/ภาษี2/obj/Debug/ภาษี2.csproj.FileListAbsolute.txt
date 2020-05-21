@@ -1,0 +1,10 @@
+E:\C#\ภาษี2\ภาษี2\bin\Debug\ภาษี2.exe.config
+E:\C#\ภาษี2\ภาษี2\bin\Debug\ภาษี2.exe
+E:\C#\ภาษี2\ภาษี2\bin\Debug\ภาษี2.pdb
+E:\C#\ภาษี2\ภาษี2\obj\Debug\ภาษี2.csprojAssemblyReference.cache
+E:\C#\ภาษี2\ภาษี2\obj\Debug\ภาษี2.Form1.resources
+E:\C#\ภาษี2\ภาษี2\obj\Debug\ภาษี2.Properties.Resources.resources
+E:\C#\ภาษี2\ภาษี2\obj\Debug\ภาษี2.csproj.GenerateResource.cache
+E:\C#\ภาษี2\ภาษี2\obj\Debug\ภาษี2.csproj.CoreCompileInputs.cache
+E:\C#\ภาษี2\ภาษี2\obj\Debug\ภาษี2.exe
+E:\C#\ภาษี2\ภาษี2\obj\Debug\ภาษี2.pdb
